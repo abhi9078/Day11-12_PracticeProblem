@@ -1,0 +1,1 @@
+{"Rice":[{"brand":"basmati","PricePerKg":40,"Weight":25,"TotalPrice":1000},{"brand":"NonBrand","PricePerKg":20,"Weight":4,"TotalPrice":80}],"Pulses":[{"brand":"NonBrand","PricePerKg":30,"Weight":5,"TotalPrice":150}],"Wheats":[{"brand":"NonBrand","PricePerKg":40,"Weight":5,"TotalPrice":200}],"Sum":1430}
